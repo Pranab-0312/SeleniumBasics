@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-07T20:49:31 IST" name="Default suite" finished-at="2023-11-07T20:49:50 IST" duration-ms="18306">
+  <suite started-at="2023-11-08T16:03:21 IST" name="Default suite" finished-at="2023-11-08T16:03:44 IST" duration-ms="23158">
     <groups>
     </groups>
-    <test started-at="2023-11-07T20:49:31 IST" name="Default test" finished-at="2023-11-07T20:49:50 IST" duration-ms="18306">
-      <class name="com.imit.waits.ImplicitWaitDemo">
-        <test-method signature="implicitwaitTest()[pri:0, instance:com.imit.waits.ImplicitWaitDemo@fa4c865]" started-at="2023-11-07T20:49:32 IST" name="implicitwaitTest" finished-at="2023-11-07T20:49:50 IST" duration-ms="18184" status="PASS">
+    <test started-at="2023-11-08T16:03:21 IST" name="Default test" finished-at="2023-11-08T16:03:44 IST" duration-ms="23158">
+      <class name="com.imit.waits.CheckBoxWait">
+        <test-method signature="CheckBoxDemo()[pri:0, instance:com.imit.waits.CheckBoxWait@3bd82cf5]" started-at="2023-11-08T16:03:21 IST" name="CheckBoxDemo" finished-at="2023-11-08T16:03:44 IST" duration-ms="23053" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- implicitwaitTest -->
-      </class> <!-- com.imit.waits.ImplicitWaitDemo -->
+        </test-method> <!-- CheckBoxDemo -->
+      </class> <!-- com.imit.waits.CheckBoxWait -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
